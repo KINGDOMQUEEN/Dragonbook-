@@ -1,0 +1,6 @@
+{
+    int i; int j;
+    int max;
+    if(i>=j) max=i;
+    else     max=j;
+}
